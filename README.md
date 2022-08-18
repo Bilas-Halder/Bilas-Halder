@@ -1,7 +1,7 @@
 
 ### Hi there 👋, I'm Bilas Halder
 #### I am a passionate Full Stack Developer
-![I am a passionate Full Stack Developer](https://media-exp1.licdn.com/dms/image/C5616AQE9K-XaiQo_hQ/profile-displaybackgroundimage-shrink_200_800/0/1639048848278?e=1660780800&v=beta&t=E_HBku1DwSlJhRPxOcMV1Di5ThlfJmqDdnlLyATC640)
+![Cover picture of Bilas Halder](https://i.ibb.co/VqqfznG/Cover-Photo-Git-Hub.jpg)
 
 
 <p align="justify">I am a 4th-year Computer Science and Engineering undergraduate student. I'm involved in ACM Competitive Programming and have competed in over 70 online and onsite programming competitions. I've solved over 500 problems in various online judges such as Codeforces, Codechef, LightOj, and others.
